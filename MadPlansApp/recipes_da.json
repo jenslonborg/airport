@@ -1,0 +1,1371 @@
+{
+  "recipes": [
+    {
+      "titel": "Spinat vafler",
+      "link": "https://www.valdemarsro.dk/spinatvafler/",
+      "ingredienser": [
+        {
+          "amount": "150",
+          "unit": "g",
+          "name": "hvedemel"
+        },
+        {
+          "amount": "75",
+          "unit": "g",
+          "name": "fuldkornshvedemel"
+        },
+        {
+          "amount": "½",
+          "unit": "tsk",
+          "name": "bagepulver"
+        },
+        {
+          "amount": "125",
+          "unit": "g",
+          "name": "spinat, frisk eller frossent"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "4 æg"
+        },
+        {
+          "amount": "2½",
+          "unit": "dl",
+          "name": "mælk"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "smør, til stegning"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "salt og friskkværnet peber"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "Spinatvafler kan bruges som wrap ala tortillas og kan fyldes med fx ovnbagte nuggets, mynte, salat, basilikum, chili, avocado og andre gode sager."
+        }
+      ]
+    },
+    {
+      "titel": "Crispy Kylling burger",
+      "link": "https://www.valdemarsro.dk/burger-med-crispy-kylling/",
+      "ingredienser": [
+        {
+          "amount": null,
+          "unit": null,
+          "name": "Crispy kylling"
+        },
+        {
+          "amount": "400",
+          "unit": "g",
+          "name": "kyllingefilet"
+        },
+        {
+          "amount": "1",
+          "unit": "spsk",
+          "name": "hvedemel"
+        },
+        {
+          "amount": "1",
+          "unit": "tsk",
+          "name": "sød paprika"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "2 æg"
+        },
+        {
+          "amount": "100",
+          "unit": "g",
+          "name": "pankorasp"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "olivenolie, til stegning"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "salt og friskkværnet peber"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "Avocadomos"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "2 avocado"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "½ øko citron, saft og fintrevet skal"
+        },
+        {
+          "amount": "1",
+          "unit": "tsk",
+          "name": "stødt spidskommen"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "Til burgeren"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "4 burgerboller"
+        },
+        {
+          "amount": "80",
+          "unit": "g",
+          "name": "salat"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "½ agurk"
+        },
+        {
+          "amount": "4",
+          "unit": "tsk",
+          "name": "mayonnaise"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "Pankorasp giver en mere sprød panering, end almindelig rasp. Du kan også bruge alm rasp eller knust nachos, som også vil passe skønt til."
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "Vil du gerne have den lidt ekstra spicy, så smag avocadomosen til med chiliflager eller cayennepeber. Du kan også komme finthakket frisk rød chili i."
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "Du kan fritere kyllingerne i friture,  det bliver de endnu sprødere af, men du kan også bage dem i ovnen ved 175 grader i cirka 20 minutter."
+        }
+      ]
+    },
+    {
+      "titel": "Pokebowl m kylling",
+      "link": "https://bellasmadunivers.dk/opskrift/hjemmelavet-poke-bowl-med-teriyaki-kylling/",
+      "ingredienser": []
+    },
+    {
+      "titel": "Pasta carbonara",
+      "link": "https://www.valdemarsro.dk/carbonara_opskrift/",
+      "ingredienser": [
+        {
+          "amount": "100",
+          "unit": "g",
+          "name": "bacon"
+        },
+        {
+          "amount": "1",
+          "unit": "tsk",
+          "name": "smør"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "1 løg, i tern"
+        },
+        {
+          "amount": "1",
+          "unit": "dl",
+          "name": "piskefløde"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "3 æg"
+        },
+        {
+          "amount": "100",
+          "unit": "g",
+          "name": "parmesan"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "friskkværnet peber"
+        },
+        {
+          "amount": "400",
+          "unit": "g",
+          "name": "spaghetti, kogt al dente"
+        },
+        {
+          "amount": "50",
+          "unit": "g",
+          "name": "parmesan, friskrevet"
+        }
+      ]
+    },
+    {
+      "titel": "Torske-Tacos",
+      "link": "https://mambeno.dk/opskrifter/fish-tacos-med-paneret-torsk-mangosalat-og-dressing/",
+      "ingredienser": [
+        {
+          "amount": null,
+          "unit": null,
+          "name": "Sådan fungerer leveringen"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "Max 15 minutter"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "Max fem ingredienser"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "Mindre kød og vegetar"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "Fisk"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "Pizza, burgere og sandwich"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "God til to dage"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "Hurtigmad"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "Klassikere"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "Retter med ris, pasta og kartofler"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "Verden rundt"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "Kager, bagværk og desserter"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "Dip og dressinger"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "Snacks"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "Bliv medlem"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "Hent app"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "Vejledninger"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "400 gramtorskeloins el. torskefilet"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "2 stkæg"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "150 grampanko eller almindelig rasp"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "1 stkmango"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "0.5 stkagurk"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "1 stkrødløg"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "1 stkavocado"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "1 stklime"
+        }
+      ]
+    },
+    {
+      "titel": "Kebab med grøntsager",
+      "link": "https://mambeno.dk/opskrifter/durum-med-kebab-groentsager-dressing-og-pommes-frites/",
+      "ingredienser": [
+        {
+          "amount": null,
+          "unit": null,
+          "name": "Sådan fungerer leveringen"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "Max 15 minutter"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "Max fem ingredienser"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "Mindre kød og vegetar"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "Fisk"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "Pizza, burgere og sandwich"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "God til to dage"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "Hurtigmad"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "Klassikere"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "Retter med ris, pasta og kartofler"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "Verden rundt"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "Kager, bagværk og desserter"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "Dip og dressinger"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "Snacks"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "Bliv medlem"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "Hent app"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "Vejledninger"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "600 grampommes frites"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "300 gramfærdig kyllingekebab"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "1 stkagurk"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "2 stktomater"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "75 gramspæde spinatblade"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "2.5 dlcreme fraiche 18%"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "1 fedhvidløg"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "4 stkfuldkornstortillas"
+        }
+      ]
+    },
+    {
+      "titel": "Fladbrød",
+      "link": "https://mambeno.dk/opskrifter/hjemmelavede-fladbroed/",
+      "ingredienser": [
+        {
+          "amount": null,
+          "unit": null,
+          "name": "Sådan fungerer leveringen"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "Max 15 minutter"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "Max fem ingredienser"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "Mindre kød og vegetar"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "Fisk"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "Pizza, burgere og sandwich"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "God til to dage"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "Hurtigmad"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "Klassikere"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "Retter med ris, pasta og kartofler"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "Verden rundt"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "Kager, bagværk og desserter"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "Dip og dressinger"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "Snacks"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "Bliv medlem"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "Hent app"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "Vejledninger"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "3 dlmælk"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "25 gramgær"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "1 spsksukker"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "2 spskolivenolie"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "400 gramhvedemel"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "1 tsksalt"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "Fortrydelsesret"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "Om Mambeno"
+        }
+      ]
+    },
+    {
+      "titel": "Mac and Cheese",
+      "link": "https://mambeno.dk/opskrifter/krydret-mac-and-cheese-med-oksekoed-og-kidneyboenner-til-to-dage/",
+      "ingredienser": [
+        {
+          "amount": null,
+          "unit": null,
+          "name": "Sådan fungerer leveringen"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "Max 15 minutter"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "Max fem ingredienser"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "Mindre kød og vegetar"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "Fisk"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "Pizza, burgere og sandwich"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "God til to dage"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "Hurtigmad"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "Klassikere"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "Retter med ris, pasta og kartofler"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "Verden rundt"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "Kager, bagværk og desserter"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "Dip og dressinger"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "Snacks"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "Bliv medlem"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "Hent app"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "Vejledninger"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "2 stkløg"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "2 fedhvidløg"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "3 stkblandede peberfrugter"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "8 stængelbladselleri"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "800 gramhakket oksekød"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "1 spskstødt koriander"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "0.5 spskspidskommen"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "1 spskkarry"
+        }
+      ]
+    },
+    {
+      "titel": "Sød kartoffel gryde",
+      "link": "https://stinna.dk/aftensmad/soed-kartoffel-gryde.html",
+      "ingredienser": []
+    },
+    {
+      "titel": "Lasagne",
+      "link": "https://www.valdemarsro.dk/lasagne/",
+      "ingredienser": [
+        {
+          "amount": null,
+          "unit": null,
+          "name": "Lasagnesauce"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "2 løg, finthakket"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "4 fed hvidløg, finthakket"
+        },
+        {
+          "amount": "400",
+          "unit": "g",
+          "name": "hakket oksekød"
+        },
+        {
+          "amount": "2",
+          "unit": "tsk",
+          "name": "tørret oregano"
+        },
+        {
+          "amount": "1",
+          "unit": "tsk",
+          "name": "tørret timian"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "4 gulerødder, groftrevet"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "5 stængler bladselleri, groftrevet"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "1 squash, groftrevet"
+        },
+        {
+          "amount": "50",
+          "unit": "g",
+          "name": "koncentreret tomatpuré"
+        },
+        {
+          "amount": "800",
+          "unit": "g",
+          "name": "hakkede tomater på dåse"
+        },
+        {
+          "amount": "1",
+          "unit": "dl",
+          "name": "rødvin, eller grøntsagsboullion"
+        },
+        {
+          "amount": "2",
+          "unit": "spsk",
+          "name": "olivenolie"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "salt og friskkværnet peber"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "Mornaysauce"
+        },
+        {
+          "amount": "2",
+          "unit": "spsk",
+          "name": "smør"
+        },
+        {
+          "amount": "2",
+          "unit": "spsk",
+          "name": "hvedemel"
+        },
+        {
+          "amount": "3",
+          "unit": "dl",
+          "name": "mælk"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "1 knivspids muskatnød, fintrevet"
+        },
+        {
+          "amount": "125",
+          "unit": "g",
+          "name": "frisk mozzarella"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "Derudover"
+        },
+        {
+          "amount": "200",
+          "unit": "g",
+          "name": "lasagneplader"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "Bagetiden i ovnen kan variere fra ovn til ovn. Lasagnen bliver bedst hvis lasagnepladerne bliver tilberedt til at være perfekt aldente og lige akkurat møre. Mærk med en gaffel om de er klar."
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "Jeg bruger frisk mozzarella i min mornaysauce eller et miks mellem frisk mozzarella og parmesan. Du kan også bruge en anden mild ost eller alternativt blot bruge masser af friskrevet parmesan."
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "Bradepandepizza med kødsauce >>"
+        }
+      ]
+    },
+    {
+      "titel": "Bønne gryde",
+      "link": "https://www.valdemarsro.dk/boennegryde/",
+      "ingredienser": [
+        {
+          "amount": "2",
+          "unit": "tsk",
+          "name": "mediumstærk karry"
+        },
+        {
+          "amount": "2",
+          "unit": "tsk",
+          "name": "stødt spidskommen"
+        },
+        {
+          "amount": "½",
+          "unit": "tsk",
+          "name": "stødt kardemomme"
+        },
+        {
+          "amount": "½",
+          "unit": "tsk",
+          "name": "stødt kanel"
+        },
+        {
+          "amount": "½",
+          "unit": "tsk",
+          "name": "røget paprika"
+        },
+        {
+          "amount": "2",
+          "unit": "tsk",
+          "name": "stødt koriander"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "3 løg, finthakkede"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "4 fed hvidløg, finthakkede"
+        },
+        {
+          "amount": "1",
+          "unit": "tsk",
+          "name": "ingefær, fintrevet"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "1 squash, groftrevet"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "3 stængler bladselleri, groftrevet"
+        },
+        {
+          "amount": "400",
+          "unit": "g",
+          "name": "hakkede tomater på dåse"
+        },
+        {
+          "amount": "3",
+          "unit": "dl",
+          "name": "grøntsagsbouillon"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "2 dåser kidneybønner, drænede og skyllede"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "1 rød peberfrugt, i tern"
+        },
+        {
+          "amount": "250",
+          "unit": "g",
+          "name": "majs, frisk, frost eller fra dåse"
+        },
+        {
+          "amount": "25",
+          "unit": "g",
+          "name": "mørk chokolade"
+        },
+        {
+          "amount": "1",
+          "unit": "tsk",
+          "name": "olivenolie, til stegning"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "salt og friskkværnet peber"
+        },
+        {
+          "amount": "1",
+          "unit": "dl",
+          "name": "cremefraiche 18 %"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "1 håndfuld frisk koriander, eller bredbladet persille"
+        },
+        {
+          "amount": "125",
+          "unit": "g",
+          "name": "nachos"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "rødløg, i  ringe og gerne syltede"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "1 avocado"
+        }
+      ]
+    },
+    {
+      "titel": "Butter chicken",
+      "link": "https://gourministeriet.dk/cremet-butter-chicken/?fbclid=IwAR1W2yApwRrK1cG281-Qyyu3J-cAiyc9WWLDInnjhFy3u5nAoWPoVKZqPxo",
+      "ingredienser": [
+        {
+          "amount": null,
+          "unit": null,
+          "name": "Hjem"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "Morgenmad"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "Frokost"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "Forretter & snacks"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "Suppe"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "Kød"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "Fisk & skaldyr"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "Kylling & fjerkræ"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "Pasta"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "Pizza"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "Risotto"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "Cheesecakes"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "Brød & bagværk"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "Vegetarretter"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "Salater"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "Kartofler"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "Vin"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "Drinks & Cocktails"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "Julemiddag med Gourministeriet"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "Julefrokost"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "Nytårsretter & inspiration"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "Nytårsmenu – Den Klassiske"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "Nytårsmenu – Den klassiske + lidt ekstra"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "Nytårsmenu – Den Italienske"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "Panos Panos Tavern"
+        }
+      ]
+    },
+    {
+      "titel": "Quesadillas med kylling",
+      "link": "https://martinys.dk/quesadillas-med-kylling/",
+      "ingredienser": [
+        {
+          "amount": null,
+          "unit": null,
+          "name": "Link kopieret"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "KYLLINGEKØD"
+        },
+        {
+          "amount": "500",
+          "unit": "g",
+          "name": "kyllingekød i strimler"
+        },
+        {
+          "amount": "1",
+          "unit": "spsk",
+          "name": "olivenolie"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "2 fed hvidløg"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "0,5 tsk. stødt koriander"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "0,5 tsk. røget paprika"
+        },
+        {
+          "amount": "1",
+          "unit": "tsk",
+          "name": "oregano"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "salt og friskkværnet peber"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "FYLD"
+        },
+        {
+          "amount": "150",
+          "unit": "g",
+          "name": "cheddar"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "1 dåse sorte bønner"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "1 glas salsa"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "QUESADILLAS"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "8 tortillapandekager"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "TIL SERVERING"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "1 håndfuld koriander"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "Cremefraiche"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "Kylling: Som her, først stegt i mexicanske krydderier, eller \"pulled\" som man gør i denne mexitærte. Kylling er utrolig nemt at variere, så det aldrig bliver kedeligt."
+        }
+      ]
+    },
+    {
+      "titel": "Vegetar lasagne",
+      "link": "https://www.louisesmadblog.dk/super-laekker-vegetarlasagne/",
+      "ingredienser": []
+    },
+    {
+      "titel": "Thai inspireret farsbrød",
+      "link": "https://mambeno.dk/opskrifter/thai-inspireret-farsbroed-med-ris-kokossauce-og-peanuts-til-to-dage/",
+      "ingredienser": [
+        {
+          "amount": null,
+          "unit": null,
+          "name": "Sådan fungerer leveringen"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "Max 15 minutter"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "Max fem ingredienser"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "Mindre kød og vegetar"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "Fisk"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "Pizza, burgere og sandwich"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "God til to dage"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "Hurtigmad"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "Klassikere"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "Retter med ris, pasta og kartofler"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "Verden rundt"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "Kager, bagværk og desserter"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "Dip og dressinger"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "Snacks"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "Bliv medlem"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "Hent app"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "Vejledninger"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "Farsbrød og ris"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "250 gramris"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "1 stkløg"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "2 fedhvidløg"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "2 cmfrisk ingefær"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "0.5 pottefriske koriander"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "2 stkæg"
+        },
+        {
+          "amount": null,
+          "unit": null,
+          "name": "1 dlmælk"
+        }
+      ]
+    }
+  ]
+}
