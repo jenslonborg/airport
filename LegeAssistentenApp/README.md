@@ -83,15 +83,46 @@ The app uses "Press Start 2P" from Google Fonts for the pixelated look. Change t
 ### Images
 Replace the PNG files in the `Images/` folder with your own button images. Keep them named `IndeLege.png` and `UdeLege.png`.
 
-## Deployment
+## Deployment to Fly.io
 
-To deploy to Fly.io (like MyFirstNodePage), copy the `Dockerfile` from MyFirstNodePage or use:
+This app is already configured for Fly.io deployment. The `fly.toml` file contains all the necessary configuration.
 
-```bash
-flyctl launch
-```
+### Prerequisites
+- Install [Flyctl](https://fly.io/docs/getting-started/installing-flyctl/)
+- Create a Fly.io account (free tier available)
+- Authenticate with Fly.io: `flyctl auth login`
 
-Then deploy with:
-```bash
-flyctl deploy
-```
+### Deploy Steps
+
+1. **First time deployment** (if not already set up):
+   ```bash
+   flyctl launch
+   ```
+   This will create the app on Fly.io using settings from `fly.toml`.
+
+2. **Deploy your changes**:
+   ```bash
+   flyctl deploy
+   ```
+   This builds the Docker image and deploys it to Fly.io.
+
+3. **View your app**:
+   The app will be available at `https://lege-assistenten.fly.dev` (or your configured domain).
+
+4. **Monitor logs**:
+   ```bash
+   flyctl logs
+   ```
+
+5. **SSH into the app** (for debugging):
+   ```bash
+   flyctl ssh console
+   ```
+
+### How It Works
+
+- **Dockerfile**: Builds a lightweight Node.js Alpine image
+- **fly.toml**: Configures the app to run in the `arn` region (Aarhus, Denmark) with auto-start/stop enabled
+- **Port 3000**: The app runs on port 3000 inside the container, exposed via HTTPS to the internet
+
+Your app will auto-scale to zero machines when idle (cost-saving) and automatically start when accessed.

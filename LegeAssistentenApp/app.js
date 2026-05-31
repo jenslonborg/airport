@@ -142,6 +142,7 @@ const baseStyles = `
 `;
 
 app.get('/', (req, res) => {
+  console.log(`[${new Date().toISOString()}] 📍 Landing page visited from ${req.ip || 'unknown'}`);
   res.send(`
     <!DOCTYPE html>
     <html lang="da">
@@ -169,6 +170,7 @@ app.get('/', (req, res) => {
 });
 
 app.get('/indelege', (req, res) => {
+  console.log(`[${new Date().toISOString()}] 🏠 Indoor games page visited from ${req.ip || 'unknown'}`);
   const gamesList = indoorGames.map(game => `<li>${game}</li>`).join('');
 
   res.send(`
@@ -194,6 +196,7 @@ app.get('/indelege', (req, res) => {
 });
 
 app.get('/udelege', (req, res) => {
+  console.log(`[${new Date().toISOString()}] 🌳 Outdoor games page visited from ${req.ip || 'unknown'}`);
   const gamesList = outdoorGames.map(game => `<li>${game}</li>`).join('');
 
   res.send(`
@@ -219,5 +222,5 @@ app.get('/udelege', (req, res) => {
 });
 
 app.listen(PORT, () => {
-  console.log(`Server running on http://localhost:${PORT}`);
+  console.log(`🚀 Lege Assistenten server started on port ${PORT}`);
 });
